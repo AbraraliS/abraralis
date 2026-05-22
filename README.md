@@ -9,31 +9,32 @@ AI Engineer • Full Stack Developer • Backend Architect
 </h3>
 
 <p align="center">
-Building scalable AI-powered platforms, modern SaaS systems, and production-grade digital products.
+Building scalable AI-powered platforms, modern SaaS systems, automation workflows, and production-grade digital products.
 </p>
 
 ---
 
 ## About Me
 
-I am focused on building scalable backend systems, AI-powered applications, and modern digital platforms. My work combines software engineering, automation, and product-focused architecture to create reliable real-world solutions.
+I specialize in building scalable backend systems, AI-powered applications, automation workflows, and modern digital platforms. My work combines software engineering, system architecture, and product-focused development to create reliable real-world solutions.
 
-I work across full stack development with strong expertise in Java, Spring Boot, REST APIs, PostgreSQL, Firebase, React, Next.js, and modern cloud-native tooling. I also integrate AI capabilities using LLMs, automation workflows, and modern AI ecosystems.
+I work across full stack development with expertise in backend engineering, distributed systems, AI integrations, modern frontend frameworks, and cloud-native tooling. I actively build production-grade platforms focused on scalability, performance, and intelligent automation.
 
-Current areas of focus:
+Current focus areas:
 
-- AI-integrated platforms
-- Backend architecture & APIs
-- SaaS systems
+- AI-integrated applications
+- SaaS architecture
+- Backend systems & APIs
 - Automation workflows
+- Modern commerce platforms
 - Scalable infrastructure
-- Modern frontend systems
+- Product engineering
 
 ---
 
 ## Tech Stack
 
-### Languages & Frameworks
+### Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java" />
@@ -48,21 +49,52 @@ Current areas of focus:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" />
   <img width="10" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="c" />
+</div>
+
+---
+
+### Frontend
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react" />
   <img width="10" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs" />
   <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwind" />
   <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3" />
 </div>
 
 ---
 
-### Tools & Platforms
+### Backend & APIs
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="spring" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=express" height="42" alt="express" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=graphql" height="42" alt="graphql" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=hibernate" height="42" alt="hibernate" />
+</div>
+
+---
+
+### Databases & Infrastructure
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql" />
@@ -80,31 +112,48 @@ Current areas of focus:
   <img src="https://skillicons.dev/icons?i=supabase" height="42" alt="supabase" />
   <img width="10" />
 
-  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker" />
-  <img width="10" />
-
   <img src="https://skillicons.dev/icons?i=redis" height="42" alt="redis" />
   <img width="10" />
 
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="42" alt="kubernetes" />
+</div>
+
+---
+
+### Tools & Platforms
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git" />
   <img width="10" />
 
   <img src="https://skillicons.dev/icons?i=github" height="42" alt="github" />
   <img width="10" />
 
+  <img src="https://skillicons.dev/icons?i=gitlab" height="42" alt="gitlab" />
+  <img width="10" />
+
   <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=intellij" height="42" alt="intellij" />
 </div>
 
 ---
 
 ## Current Focus
 
-- AI-powered applications
+- AI-powered SaaS systems
+- Intelligent automation workflows
 - Scalable backend architecture
-- SaaS platforms
-- Automation systems
 - Modern commerce infrastructure
-- Production-ready deployment systems
+- Production-grade deployments
+- Developer tooling & platform engineering
 
 ---
 
@@ -134,6 +183,18 @@ Current areas of focus:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://x.com/shadow07dev" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://gitlab.com/AbraraliS" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@abraralis7" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 <a href="mailto:abrarali.sunasara28@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -161,5 +222,5 @@ Current areas of focus:
 ---
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt&fontColor=FFFFFF" />
 </div>
