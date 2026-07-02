@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt&fontColor=FFFFFF" />
 </div>
 
-<h1 align="center">Abrar Ali</h1>
+<h1 align="center">AbrarAli Sunasara</h1>
 
 <h3 align="center">
 AI Engineer • Full Stack Developer • Backend Architect
