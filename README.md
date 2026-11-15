@@ -1,226 +1,126 @@
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt&fontColor=FFFFFF" />
+<div align="center">
+
+<img src="./assets/banner.png" alt="AbrarAli Sunasara, co-founder of Criza Labs, full-stack and AI engineer" width="100%" />
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/abraralis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/shadow07dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.youtube.com/@abraralis7"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://abrarali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:abrarali.sunasara28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
-<h1 align="center">AbrarAli Sunasara</h1>
+<br />
 
-<h3 align="center">
-AI Engineer • Full Stack Developer • Backend Architect
-</h3>
+## 👋 About me
+
+I'm a co-founder of **[Criza Labs](https://criza.dev)** and a full-stack and AI engineer. We build websites, web apps, mobile apps and AI automation for growing businesses, and the people who plan a project are the people who write the code.
+
+Most of my work sits where product and engineering meet: designing the backend, wiring in AI where it actually helps, and shipping a frontend that stays fast on a phone.
+
+```js
+const abrar = {
+  role: ["Co-founder @ Criza Labs", "Full-stack engineer", "AI engineer"],
+  building: ["CrizaTools", "CrizaVoise", "client websites, apps & automation"],
+  likes: ["fast pages", "clean APIs", "software that works offline"],
+  contact: "abrarali.sunasara28@gmail.com",
+};
+```
+
+<br />
+
+## 🚀 What I'm building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <img src="./assets/crizatools-icon.png" width="40" height="40" align="left" alt="" />
+        <b>&nbsp;CrizaTools</b><br />
+        &nbsp;<sub>27 free tools that run in your browser</sub>
+      </p>
+      <a href="https://criza.web.id"><img src="./assets/crizatools.png" alt="CrizaTools home page" width="100%" /></a>
+      <p>JPG to PDF, merge PDF, an image compressor, GST, EMI and SIP calculators, QR codes and a GST invoice generator. Nothing is uploaded: PDFs are built in the page, photos are compressed with the canvas and QR codes are drawn on the device. It installs as an app and works offline.</p>
+      <sub>Astro · Preact · Tailwind · Cloudflare Workers · PWA</sub><br /><br />
+      <b><a href="https://criza.web.id">Open CrizaTools →</a></b>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <img src="./assets/crizavoise-icon.png" width="40" height="40" align="left" alt="" />
+        <b>&nbsp;CrizaVoise</b><br />
+        &nbsp;<sub>Free, open-source billing software</sub>
+      </p>
+      <a href="https://voise.criza.dev"><img src="./assets/crizavoise.png" alt="CrizaVoise dashboard" width="100%" /></a>
+      <p>GST invoices, quotations, thermal receipts, stock and payments for small businesses, fully offline on Windows, Linux and macOS. The data stays on the user's computer.</p>
+      <sub>Flutter · Dart · SQLite</sub><br /><br />
+      <b><a href="https://voise.criza.dev">Download free →</a></b> &nbsp;·&nbsp; <a href="https://github.com/CRIZA-LABS/crizavoise">Source</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-Building scalable AI-powered platforms, modern SaaS systems, automation workflows, and production-grade digital products.
+  Also: <a href="https://criza.dev"><b>criza.dev</b></a>, the Criza Labs website, with free developer tools and guides.
 </p>
 
----
+<br />
 
-## About Me
+## 🧰 Tech stack
 
-I specialize in building scalable backend systems, AI-powered applications, automation workflows, and modern digital platforms. My work combines software engineering, system architecture, and product-focused development to create reliable real-world solutions.
+**Languages**<br />
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,dart,c" alt="TypeScript, JavaScript, Java, Python, Dart, C" />
 
-I work across full stack development with expertise in backend engineering, distributed systems, AI integrations, modern frontend frameworks, and cloud-native tooling. I actively build production-grade platforms focused on scalability, performance, and intelligent automation.
+**Frontend & mobile**<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,html,css,flutter" alt="React, Next.js, Astro, Tailwind, HTML, CSS, Flutter" />
 
-Current focus areas:
+**Backend & APIs**<br />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql,hibernate" alt="Spring, Node.js, Express, GraphQL, Hibernate" />
 
-- AI-integrated applications
-- SaaS architecture
-- Backend systems & APIs
-- Automation workflows
-- Modern commerce platforms
-- Scalable infrastructure
-- Product engineering
+**Data & infrastructure**<br />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,docker,kubernetes,cloudflare,vercel" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase, Supabase, Docker, Kubernetes, Cloudflare, Vercel" />
 
----
+**Tools**<br />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,idea" alt="Git, GitHub, GitLab, Postman, VS Code, IntelliJ IDEA" />
 
-## Tech Stack
+<br />
 
-### Languages
+## 🎯 Current focus
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java" />
-  <img width="10" />
+- AI features that save real time: assistants, document workflows and integrations
+- Fast, search-ready websites that are also easy for AI answers to cite
+- Backend systems and APIs that stay simple as they grow
+- Free, privacy-first tools that run on the user's device
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript" />
-  <img width="10" />
+<br />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="c" />
-</div>
-
----
-
-### Frontend
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwind" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3" />
-</div>
-
----
-
-### Backend & APIs
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="spring" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=express" height="42" alt="express" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=graphql" height="42" alt="graphql" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=hibernate" height="42" alt="hibernate" />
-</div>
-
----
-
-### Databases & Infrastructure
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="mongodb" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="firebase" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=supabase" height="42" alt="supabase" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=redis" height="42" alt="redis" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="42" alt="kubernetes" />
-</div>
-
----
-
-### Tools & Platforms
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=github" height="42" alt="github" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=gitlab" height="42" alt="gitlab" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=intellij" height="42" alt="intellij" />
-</div>
-
----
-
-## Current Focus
-
-- AI-powered SaaS systems
-- Intelligent automation workflows
-- Scalable backend architecture
-- Modern commerce infrastructure
-- Production-grade deployments
-- Developer tooling & platform engineering
-
----
-
-## GitHub Stats
+## 📊 GitHub activity
 
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AbraraliS&show_icons=true&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=AbraraliS&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AbraraliS&show_icons=true&hide_border=true&bg_color=08090d&title_color=f51e91&icon_color=019ffb&text_color=f6f2ea&ring_color=fd352a" height="170" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=AbraraliS&hide_border=true&background=08090d&ring=fd352a&fire=f51e91&currStreakLabel=f6f2ea&sideLabels=f6f2ea&currStreakNum=f6f2ea&sideNums=f6f2ea&dates=b3b7c2&stroke=1f2230" height="170" alt="GitHub streak" />
 </div>
 
----
-
-## Connect
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/abraralis/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/shadow07dev" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://gitlab.com/AbraraliS" target="_blank">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/@abraralis7" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="mailto:abrarali.sunasara28@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://abrarali.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbraraliS.AbraraliS&" />
-</div>
-
----
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating the contribution graph" src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph.svg">
 </picture>
 
----
+<br />
 
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt&fontColor=FFFFFF" />
-</div> 
+<div align="center">
+
+### Planning a website, an app or an automation?
+
+<a href="https://criza.dev"><img src="https://img.shields.io/badge/Work%20with%20Criza%20Labs-criza.dev-fd352a?style=for-the-badge&labelColor=08090d" alt="Work with Criza Labs" /></a>
+
+<br />
+<br />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AbraraliS.AbraraliS" alt="Profile views" />
+
+</div>
