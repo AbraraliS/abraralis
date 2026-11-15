@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/banner.png" alt="AbrarAli Sunasara, co-founder of Criza Labs, full-stack and AI engineer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/banner-dark.png" />
+  <img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/banner-light.png" alt="AbrarAli Sunasara, co-founder of Criza Labs, full-stack and AI engineer" width="100%" />
+</picture>
 
 <br />
 <br />
@@ -38,7 +41,10 @@ Most of my work sits where product and engineering meet: designing the backend, 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://voise.criza.dev"><img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizavoise.png" alt="CrizaVoise dashboard" width="100%" /></a>
+      <a href="https://voise.criza.dev"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizavoise-dark.png" />
+  <img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizavoise-light.png" alt="CrizaVoise dashboard" width="100%" />
+</picture></a>
       <h3><img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizavoise-icon.png" width="28" height="28" align="top" alt="" />&nbsp; CrizaVoise</h3>
       <sub><b>FREE, OPEN-SOURCE BILLING SOFTWARE</b></sub>
       <p>GST invoices, quotations, thermal receipts, stock and payments for small businesses. It works fully offline on Windows, Linux and macOS, and the data stays on the user's computer.</p>
@@ -46,7 +52,10 @@ Most of my work sits where product and engineering meet: designing the backend, 
       <p><a href="https://voise.criza.dev"><b>Download free</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/CRIZA-LABS/crizavoise">Source code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://criza.web.id"><img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizatools.png" alt="CrizaTools home page" width="100%" /></a>
+      <a href="https://criza.web.id"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizatools-dark.png" />
+  <img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizatools-light.png" alt="CrizaTools home page" width="100%" />
+</picture></a>
       <h3><img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizatools-icon.png" width="28" height="28" align="top" alt="" />&nbsp; CrizaTools</h3>
       <sub><b>27 FREE TOOLS THAT RUN IN YOUR BROWSER</b></sub>
       <p>JPG to PDF, merge PDF, an image compressor, GST, EMI and SIP calculators, QR codes and a GST invoice generator. No sign-up, nothing uploaded, and it installs as an app that works offline.</p>
@@ -101,8 +110,8 @@ Most of my work sits where product and engineering meet: designing the backend, 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbraraliS&show_icons=true&hide_border=true&bg_color=08090d&title_color=f51e91&icon_color=019ffb&text_color=f6f2ea&ring_color=fd352a" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=AbraraliS&hide_border=true&background=08090d&ring=fd352a&fire=f51e91&currStreakLabel=f6f2ea&sideLabels=f6f2ea&currStreakNum=f6f2ea&sideNums=f6f2ea&dates=b3b7c2&stroke=1f2230" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbraraliS&show_icons=true&hide_border=true&bg_color=121418&title_color=ffb000&icon_color=ffb000&text_color=f1f0ea&ring_color=d4361c&border_color=e9e8e1" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=AbraraliS&hide_border=true&background=121418&ring=ffb000&fire=d4361c&currStreakLabel=ffb000&sideLabels=f1f0ea&currStreakNum=f1f0ea&sideNums=f1f0ea&dates=aab0bb&stroke=3a3f4a" height="165" alt="GitHub streak" />
 </div>
 
 <br />
@@ -115,9 +124,12 @@ Most of my work sits where product and engineering meet: designing the backend, 
 <br />
 <br />
 
-<a href="https://criza.dev"><img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/cta.png" alt="Have a product in mind? Work with Criza Labs at criza.dev" width="100%" /></a>
+<a href="https://criza.dev"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/cta-dark.png" />
+  <img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/cta-light.png" alt="Have a product in mind? Work with Criza Labs at criza.dev" width="100%" />
+</picture></a>
 
 <div align="center">
   <br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbraraliS.AbraraliS&left_color=08090d&right_color=f51e91" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbraraliS.AbraraliS&left_color=111318&right_color=ffb000" alt="Profile views" />
 </div>
