@@ -110,8 +110,7 @@ Most of my work sits where product and engineering meet: designing the backend, 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbraraliS&show_icons=true&hide_border=true&bg_color=1a0a10&title_color=ff8fab&icon_color=e2456b&text_color=fff1f3&ring_color=e2456b" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=AbraraliS&hide_border=true&background=1a0a10&ring=e2456b&fire=ff8fab&currStreakLabel=ff8fab&sideLabels=fff1f3&currStreakNum=fff1f3&sideNums=fff1f3&dates=d3b3bb&stroke=4a2530" height="165" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=AbraraliS&hide_border=true&background=1a0a10&ring=e2456b&fire=ff8fab&currStreakLabel=ff8fab&sideLabels=fff1f3&currStreakNum=fff1f3&sideNums=fff1f3&dates=d3b3bb&stroke=4a2530" alt="GitHub streak" width="100%" />
 </div>
 
 <br />
