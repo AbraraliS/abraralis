@@ -110,8 +110,8 @@ Most of my work sits where product and engineering meet: designing the backend, 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbraraliS&show_icons=true&hide_border=true&bg_color=121418&title_color=ffb000&icon_color=ffb000&text_color=f1f0ea&ring_color=d4361c&border_color=e9e8e1" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=AbraraliS&hide_border=true&background=121418&ring=ffb000&fire=d4361c&currStreakLabel=ffb000&sideLabels=f1f0ea&currStreakNum=f1f0ea&sideNums=f1f0ea&dates=aab0bb&stroke=3a3f4a" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbraraliS&show_icons=true&hide_border=true&bg_color=121418&title_color=ffb000&icon_color=f51e91&text_color=f1f0ea&ring_color=fd352a&border_color=e9e8e1" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=AbraraliS&hide_border=true&background=121418&ring=ffb000&fire=f51e91&currStreakLabel=ffb000&sideLabels=f1f0ea&currStreakNum=f1f0ea&sideNums=f1f0ea&dates=aab0bb&stroke=3a3f4a" height="165" alt="GitHub streak" />
 </div>
 
 <br />
