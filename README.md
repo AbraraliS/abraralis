@@ -110,8 +110,8 @@ Most of my work sits where product and engineering meet: designing the backend, 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbraraliS&show_icons=true&hide_border=true&bg_color=121418&title_color=ffb000&icon_color=f51e91&text_color=f1f0ea&ring_color=fd352a&border_color=e9e8e1" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=AbraraliS&hide_border=true&background=121418&ring=ffb000&fire=f51e91&currStreakLabel=ffb000&sideLabels=f1f0ea&currStreakNum=f1f0ea&sideNums=f1f0ea&dates=aab0bb&stroke=3a3f4a" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbraraliS&show_icons=true&hide_border=true&bg_color=1a0a10&title_color=ff8fab&icon_color=e2456b&text_color=fff1f3&ring_color=e2456b" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=AbraraliS&hide_border=true&background=1a0a10&ring=e2456b&fire=ff8fab&currStreakLabel=ff8fab&sideLabels=fff1f3&currStreakNum=fff1f3&sideNums=fff1f3&dates=d3b3bb&stroke=4a2530" height="165" alt="GitHub streak" />
 </div>
 
 <br />
@@ -131,5 +131,5 @@ Most of my work sits where product and engineering meet: designing the backend, 
 
 <div align="center">
   <br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbraraliS.AbraraliS&left_color=111318&right_color=ffb000" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbraraliS.AbraraliS&left_color=2b0b14&right_color=9f1239" alt="Profile views" />
 </div>
