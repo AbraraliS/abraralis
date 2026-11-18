@@ -13,6 +13,7 @@
 <a href="https://www.youtube.com/@abraralis7"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://abrarali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:abrarali.sunasara28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://buymeacoffee.com/abraralis"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 
 </div>
 
@@ -52,20 +53,24 @@ Most of my work sits where product and engineering meet: designing the backend, 
       <p><a href="https://voise.criza.dev"><b>Download free</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/CRIZA-LABS/crizavoise">Source code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://criza.web.id"><picture>
+      <a href="https://tools.criza.dev"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizatools-dark.png" />
   <img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizatools-light.png" alt="CrizaTools home page" width="100%" />
 </picture></a>
       <h3><img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizatools-icon.png" width="28" height="28" align="top" alt="" />&nbsp; CrizaTools</h3>
-      <sub><b>27 FREE TOOLS THAT RUN IN YOUR BROWSER</b></sub>
+      <sub><b>FREE TOOLS THAT RUN IN YOUR BROWSER</b></sub>
       <p>JPG to PDF, merge PDF, an image compressor, GST, EMI and SIP calculators, QR codes and a GST invoice generator. No sign-up, nothing uploaded, and it installs as an app that works offline.</p>
       <p><img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" /> <img src="https://img.shields.io/badge/Preact-673AB8?style=flat-square&logo=preact&logoColor=white" alt="Preact" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" /></p>
-      <p><a href="https://criza.web.id"><b>Open CrizaTools</b></a></p>
+      <p><a href="https://tools.criza.dev"><b>Open CrizaTools</b></a></p>
     </td>
   </tr>
 </table>
 
 <p align="center"><sub>Also: <a href="https://criza.dev"><b>criza.dev</b></a>, the Criza Labs website, with free developer tools and guides.</sub></p>
+
+<p align="center">CrizaVoise and CrizaTools are free, with no sign-up. If they save you time, a coffee helps me keep them free and build what comes next.</p>
+<p align="center"><a href="https://buymeacoffee.com/abraralis"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a></p>
+<p align="center"><sub>No coffee budget? A star on <a href="https://github.com/CRIZA-LABS/crizavoise">CrizaVoise</a> or sharing it with a shop owner helps just as much.</sub></p>
 
 <br />
 
