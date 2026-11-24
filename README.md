@@ -64,11 +64,21 @@ Most of my work sits where product and engineering meet: designing the backend, 
       <p><a href="https://tools.criza.dev"><b>Open CrizaTools</b></a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://crizo.criza.dev"><img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizo-app.png" alt="Crizo for Android: Brain and Money screens beside Crizo" width="100%" /></a>
+      <h3><img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/crizo-app-icon.png" width="28" height="28" align="top" alt="" />&nbsp; Crizo for Android</h3>
+      <sub><b>MEMORIES, REMINDERS AND MONEY, PRIVATE ON YOUR PHONE</b></sub>
+      <p>Bank and UPI payments save themselves, plain words become reminders and lists, and memories keep their place and photos. On-device AI, no account, no ads. Free in early access.</p>
+      <p><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/On--device%20AI-0E3B2A?style=flat-square" alt="On-device AI" /></p>
+      <p><a href="https://crizo.criza.dev/download"><b>Download free</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/CRIZA-LABS/crizo-app">About the app</a></p>
+    </td>
+  </tr>
 </table>
 
 <p align="center"><sub>Also: <a href="https://criza.dev"><b>criza.dev</b></a>, the Criza Labs website, with free developer tools and guides.</sub></p>
 
-<p align="center">CrizaVoise and CrizaTools are free, with no sign-up. If they save you time, a coffee helps me keep them free and build what comes next.</p>
+<p align="center">Crizo, CrizaVoise and CrizaTools are free, with no sign-up. If they save you time, a coffee helps me keep them free and build what comes next.</p>
 <p align="center"><a href="https://buymeacoffee.com/abraralis"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a></p>
 <p align="center"><sub>No coffee budget? A star on <a href="https://github.com/CRIZA-LABS/crizavoise">CrizaVoise</a> or sharing it with a shop owner helps just as much.</sub></p>
 
