@@ -5,6 +5,8 @@
   <img src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/main/assets/banner-light.png" alt="AbrarAli Sunasara, co-founder of Criza Labs, full-stack and AI engineer" width="100%" />
 </picture>
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&weight=600&size=20&pause=1400&color=DC2626&center=true&vCenter=true&width=680&lines=Building+Crizo+for+Android;Full-stack+and+AI+engineer;Co-founder+of+Criza+Labs" alt="Building Crizo for Android · Full-stack and AI engineer · Co-founder of Criza Labs" /></p>
+
 <br />
 <br />
 
@@ -12,8 +14,8 @@
 <a href="https://x.com/shadow07dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.youtube.com/@abraralis7"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://abrarali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:abrarali.sunasara28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://buymeacoffee.com/abraralis"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+<a href="mailto:abrarali.sunasara28@gmail.com"><img src="https://img.shields.io/badge/Email-0E3B2A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://buymeacoffee.com/abraralis"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-DC2626?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee" /></a>
 
 </div>
 
@@ -79,7 +81,7 @@ Most of my work sits where product and engineering meet: designing the backend, 
 <p align="center"><sub>Also: <a href="https://criza.dev"><b>criza.dev</b></a>, the Criza Labs website, with free developer tools and guides.</sub></p>
 
 <p align="center">Crizo, CrizaVoise and CrizaTools are free, with no sign-up. If they save you time, a coffee helps me keep them free and build what comes next.</p>
-<p align="center"><a href="https://buymeacoffee.com/abraralis"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a></p>
+<p align="center"><a href="https://buymeacoffee.com/abraralis"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-DC2626?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee" /></a></p>
 <p align="center"><sub>No coffee budget? A star on <a href="https://github.com/CRIZA-LABS/crizavoise">CrizaVoise</a> or sharing it with a shop owner helps just as much.</sub></p>
 
 <br />
